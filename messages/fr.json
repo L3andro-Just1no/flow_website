@@ -1,0 +1,163 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "À Propos",
+    "services": "Services",
+    "projects": "Projets",
+    "blog": "Blog Flow",
+    "contact": "Contact"
+  },
+  "footer": {
+    "address": "Edifício Ualg Tec, Campus da Penha, 8005-139 Faro",
+    "email": "info@flowproductions.pt",
+    "phone": "+351 910 814 616",
+    "rights": "Flow Productions ©. Tous droits réservés."
+  },
+  "home": {
+    "hero": {
+      "label": "Flow with us",
+      "title": "Nous sommes Flow: Créativité en mouvement",
+      "description": "Nous sommes une agence créative à Faro spécialisée en design, marketing, production audiovisuelle, animation 2D et 3D, branding et produits digitaux. Plus qu'exécuter des projets, nous créons des histoires qui coulent, connectent les gens et font avancer votre marque.",
+      "cta": "À propos de Flow"
+    },
+    "team": {
+      "label": "L'Équipe",
+      "title": "Nous sommes Flow:",
+      "subtitle": "Créativité en mouvement",
+      "description": "Nous sommes une agence créative à Faro spécialisée en design, marketing, production audiovisuelle, animation 2D et 3D, branding et produits digitaux. Plus qu'exécuter des projets, nous créons des histoires qui coulent, connectent les gens et font avancer votre marque.",
+      "cta": "À propos de Flow"
+    },
+    "servicesPreview": {
+      "label": "Comment nous coulons",
+      "title": "Nos services"
+    },
+    "testimonials": {
+      "title": "Marques qui coulent avec nous"
+    },
+    "projects": {
+      "label": "Travaux qui parlent d'eux-mêmes",
+      "title": "Projets avec Flow",
+      "description": "Du concept à l'exécution, nous donnons forme et mouvement aux idées. Ceci est notre portfolio de projets, où design, marketing, audiovisuel et animation prennent vie.",
+      "cta": "Voir Plus"
+    }
+  },
+  "services": {
+    "metaTitle": "Services - Flow Productions",
+    "metaDescription": "Découvrez nos services de Design, Marketing, Audiovisuel et Animation",
+    "pageLabel": "Comment nous coulons",
+    "title": "Nos services",
+    "design": {
+      "title": "Design",
+      "number": "01",
+      "items": [
+        "Branding",
+        "Éditorial",
+        "Web Design",
+        "UX / UI Design",
+        "Packaging Design",
+        "Social Media Design",
+        "Illustration",
+        "Space Branding"
+      ]
+    },
+    "marketing": {
+      "title": "Marketing",
+      "number": "02",
+      "items": [
+        "Stratégie de Contenu",
+        "Stratégie de Marque",
+        "Copywriting",
+        "Contenu Social Media",
+        "Rédaction de Blog",
+        "Publicité Digitale",
+        "Storytelling",
+        "Conseil"
+      ]
+    },
+    "audiovisual": {
+      "title": "Audiovisuel",
+      "number": "03",
+      "items": [
+        "Storytelling",
+        "Vidéo",
+        "Photographie",
+        "Couverture d'Événements"
+      ]
+    },
+    "animation": {
+      "title": "Animation",
+      "number": "04",
+      "items": [
+        "Motion Graphics",
+        "Animation de Produit",
+        "Animation Corporate et Éducative",
+        "Animation Publicitaire et Social Media",
+        "Effets Spéciaux"
+      ]
+    }
+  },
+  "about": {
+    "metaTitle": "À Propos - Flow Productions",
+    "metaDescription": "Découvrez Flow Productions et notre équipe créative",
+    "history": {
+      "label": "NOTRE HISTOIRE",
+      "title": "Où Flow a",
+      "titleHighlight": "Commencé",
+      "paragraph1": "Tout a commencé en 2019, avec Flow Productions émergeant comme un studio passionné d'animation 2D et de motion graphics. À cette époque, notre flux ne coulait que dans une seule direction : donner vie aux images.",
+      "paragraph2": "Avec des productions vidéo et animation hors des sentiers battus, Flow s'est rapidement distingué par sa qualité et sa rigueur. Mais, comme tout ce qui coule, nous avons également évolué. Nous avons rapidement compris que les clients ne recherchaient pas seulement un service isolé : ils voulaient de la proximité, de la personnalisation et des expériences de communication complètes.",
+      "paragraph3": "C'est de cette énergie qu'est née la transformation. D'un studio d'animation, nous sommes devenus une agence créative multidisciplinaire en Algarve, où design, marketing, audiovisuel et animation se croisent dans un flux continu.",
+      "paragraph4": "En 2022, nous avons renforcé cette identité avec trois piliers qui nous définissent encore aujourd'hui : rigueur, innovation et personnes.",
+      "paragraph5": "Aujourd'hui, nos projets ont dans leur ADN un courant fait de stratégie, personnalisation, créativité et savoir-faire. Notre mission reste claire : unir les marques et les personnes à travers l'énergie de la communication et créer des histoires qui ne cessent de couler."
+    },
+    "mission": {
+      "label": "CE QUI MAINTIENT NOTRE FLUX EN MOUVEMENT",
+      "title": "Mission et Vision",
+      "titleHighlight": "Flow",
+      "mission": {
+        "title": "Mission",
+        "description": "Unir les marques et les personnes à travers la création de contenus créatifs et de stratégies de marketing digital qui génèrent un impact réel. Ce qui nous motive est de transformer la communication en énergie qui coule, inspire et crée des connexions durables."
+      },
+      "vision": {
+        "title": "Vision",
+        "description": "Être une agence créative de référence au niveau régional et national, reconnue pour l'innovation, la proximité avec les clients et la capacité de transformer les idées en histoires qui restent en mémoire. Nous voulons que Flow soit synonyme de créativité en mouvement, un point de rencontre entre les marques et les personnes."
+      },
+      "values": {
+        "title": "Valeurs",
+        "items": "Responsabilité • Engagement • Collaboration • Créativité • Évolution"
+      }
+    },
+    "team": {
+      "title": "Équipe Flow:",
+      "titleHighlight": "le moteur créatif"
+    }
+  },
+  "projects": {
+    "metaTitle": "Projets - Flow Productions",
+    "metaDescription": "Explorez nos projets de Design, Marketing, Audiovisuel et Animation"
+  },
+  "blog": {
+    "metaTitle": "Blog Flow - Flow Productions",
+    "metaDescription": "Articles et insights sur la créativité, le design et le marketing"
+  },
+  "contact": {
+    "metaTitle": "Contact - Flow Productions",
+    "metaDescription": "Contactez-nous",
+    "title": "Faisons couler vos projets?",
+    "form": {
+      "name": "Nom",
+      "email": "Email",
+      "message": "Message",
+      "consent": "J'accepte que mes données soient stockées et traitées",
+      "submit": "Envoyer",
+      "success": "Message envoyé avec succès!",
+      "error": "Erreur lors de l'envoi du message. Veuillez réessayer."
+    }
+  },
+  "newsletter": {
+    "title": "Abonnez-vous à notre newsletter!",
+    "placeholder": "Votre email",
+    "submit": "S'abonner",
+    "success": "Merci pour votre abonnement!",
+    "error": "Erreur lors de l'abonnement. Veuillez réessayer."
+  }
+}

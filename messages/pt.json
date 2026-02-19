@@ -1,0 +1,163 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "Sobre Nós",
+    "services": "Serviços",
+    "projects": "Projetos",
+    "blog": "Blog Flow",
+    "contact": "Contactos"
+  },
+  "footer": {
+    "address": "Edifício Ualg Tec, Campus da Penha, 8005-139 Faro",
+    "email": "info@flowproductions.pt",
+    "phone": "+351 910 814 616",
+    "rights": "Flow Productions ©. All Rights Reserved."
+  },
+  "home": {
+    "hero": {
+      "label": "Flow with us",
+      "title": "Somos Flow: Criatividade em movimento",
+      "description": "Somos uma agência criativa em Faro especializada em design, marketing, produção audiovisual, animação 2D e 3D, branding e produtos digitais. Mais do que executar projetos, criamos histórias que fluem, ligam pessoas e fazem a tua marca avançar.",
+      "cta": "Sobre a Flow"
+    },
+    "team": {
+      "label": "A Equipa",
+      "title": "Somos Flow:",
+      "subtitle": "Criatividade em movimento",
+      "description": "Somos uma agência criativa em Faro especializada em design, marketing, produção audiovisual, animação 2D e 3D, branding e produtos digitais. Mais do que executar projetos, criamos histórias que fluem, ligam pessoas e fazem a tua marca avançar.",
+      "cta": "Sobre a Flow"
+    },
+    "servicesPreview": {
+      "label": "Como fluímos",
+      "title": "Os nossos serviços"
+    },
+    "testimonials": {
+      "title": "Marcas que fluem connosco"
+    },
+    "projects": {
+      "label": "Trabalhos que falam por si",
+      "title": "Projetos com Flow",
+      "description": "Do conceito à execução, fazemos as ideias ganhar forma e movimento. Este é o nosso portfólio de projetos, onde design, marketing, audiovisual e animação ganham vida.",
+      "cta": "Ver Mais"
+    }
+  },
+  "services": {
+    "metaTitle": "Serviços - Flow Productions",
+    "metaDescription": "Descubra os nossos serviços de Design, Marketing, Audiovisual e Animação",
+    "pageLabel": "Como fluímos",
+    "title": "Os nossos serviços",
+    "design": {
+      "title": "Design",
+      "number": "01",
+      "items": [
+        "Branding",
+        "Editorial",
+        "Web Design",
+        "UX / UI Design",
+        "Packaging Design",
+        "Social Media Design",
+        "Ilustração",
+        "Space Branding"
+      ]
+    },
+    "marketing": {
+      "title": "Marketing",
+      "number": "02",
+      "items": [
+        "Content Strategy",
+        "Brand Strategy",
+        "Copywriting",
+        "Social Media Content",
+        "Blog Content Writing",
+        "Digital Advertising",
+        "Storytelling",
+        "Consultoria"
+      ]
+    },
+    "audiovisual": {
+      "title": "Audiovisual",
+      "number": "03",
+      "items": [
+        "Storytelling",
+        "Vídeo",
+        "Fotografia",
+        "Cobertura de Eventos"
+      ]
+    },
+    "animation": {
+      "title": "Animação",
+      "number": "04",
+      "items": [
+        "Motion Graphics",
+        "Animação de Produto",
+        "Animação Corporativa e Educativa",
+        "Animação Publicitária e Social Media",
+        "Efeitos Especiais"
+      ]
+    }
+  },
+  "about": {
+    "metaTitle": "Sobre Nós - Flow Productions",
+    "metaDescription": "Conheça a Flow Productions e a nossa equipa criativa",
+    "history": {
+      "label": "A NOSSA HISTÓRIA",
+      "title": "Onde o Flow",
+      "titleHighlight": "Começou",
+      "paragraph1": "Tudo começou em 2019, com a Flow Productions a emergir como um estúdio apaixonado por animação 2D e motion graphics. Nessa altura, o nosso fluxo corria apenas numa direção: dar vida a imagens.",
+      "paragraph2": "Com produções de vídeo e animação fora da caixa, a Flow rapidamente se destacou pela qualidade e pelo rigor. Mas, como tudo o que flui, também nós evoluímos. Percebemos cedo que os clientes não procuravam apenas um serviço isolado: queriam proximidade, personalização e experiências completas de comunicação.",
+      "paragraph3": "Foi dessa energia que nasceu a transformação. De estúdio de animação, passámos a ser uma agência criativa multidisciplinar no Algarve, onde design, marketing, audiovisual e animação se cruzam num fluxo contínuo.",
+      "paragraph4": "Em 2022, reforçámos essa identidade com três pilares que nos definem até hoje: rigor, inovação e pessoas.",
+      "paragraph5": "Hoje, os nossos projetos têm no seu ADN uma corrente feita de estratégia, personalização, criatividade e know-how. A nossa missão continua clara: unir marcas e pessoas através da energia da comunicação e criar histórias que não param de fluir."
+    },
+    "mission": {
+      "label": "O QUE MANTÉM O NOSSO FLUXO EM MOVIMENTO",
+      "title": "Missão e Visão",
+      "titleHighlight": "Flow",
+      "mission": {
+        "title": "Missão",
+        "description": "Unir marcas e pessoas através da criação de conteúdos criativos e estratégias de marketing digital que geram impacto real. O que nos move é transformar comunicação em energia que flui, inspira e cria ligações duradouras."
+      },
+      "vision": {
+        "title": "Visão",
+        "description": "Ser uma agência criativa de referência a nível regional e nacional, reconhecida pela inovação, pela proximidade com os clientes e pela capacidade de transformar ideias em histórias que ficam na memória. Queremos que a Flow seja sinónimo de criatividade em movimento, um ponto de encontro entre marcas e pessoas."
+      },
+      "values": {
+        "title": "Valores",
+        "items": "Responsabilidade • Compromisso • Colaboração • Criatividade • Evolução"
+      }
+    },
+    "team": {
+      "title": "Equipa Flow:",
+      "titleHighlight": "o motor criativo"
+    }
+  },
+  "projects": {
+    "metaTitle": "Projetos - Flow Productions",
+    "metaDescription": "Explore os nossos projetos de Design, Marketing, Audiovisual e Animação"
+  },
+  "blog": {
+    "metaTitle": "Blog Flow - Flow Productions",
+    "metaDescription": "Artigos e insights sobre criatividade, design e marketing"
+  },
+  "contact": {
+    "metaTitle": "Contactos - Flow Productions",
+    "metaDescription": "Entre em contacto connosco",
+    "title": "Vamos pôr os teus projetos a fluir?",
+    "form": {
+      "name": "Nome",
+      "email": "Email",
+      "message": "Mensagem",
+      "consent": "Aceito que os meus dados sejam guardados e processados",
+      "submit": "Enviar",
+      "success": "Mensagem enviada com sucesso!",
+      "error": "Erro ao enviar mensagem. Tente novamente."
+    }
+  },
+  "newsletter": {
+    "title": "Subscreva a nossa newsletter!",
+    "placeholder": "O seu email",
+    "submit": "Subscrever",
+    "success": "Obrigado pela subscrição!",
+    "error": "Erro ao subscrever. Tente novamente."
+  }
+}
