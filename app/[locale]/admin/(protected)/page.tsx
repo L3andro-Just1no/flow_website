@@ -37,7 +37,7 @@ export default async function AdminDashboard({
   return (
     <div className="px-4 py-6">
       <h1 className="text-3xl font-bold mb-8">Dashboard</h1>
-      
+
       <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
         {stats.map((stat) => (
           <div key={stat.name} className="bg-white rounded-lg shadow p-6">
@@ -55,36 +55,28 @@ export default async function AdminDashboard({
             className="p-4 border border-gray-200 rounded-lg hover:border-black transition-colors"
           >
             <h3 className="font-semibold mb-1">Gerir Projetos</h3>
-            <p className="text-sm text-gray-600">
-              Criar, editar e publicar projetos
-            </p>
+            <p className="text-sm text-gray-600">Criar, editar e publicar projetos</p>
           </a>
           <a
             href={`/${locale}/admin/posts`}
             className="p-4 border border-gray-200 rounded-lg hover:border-black transition-colors"
           >
             <h3 className="font-semibold mb-1">Gerir Blog</h3>
-            <p className="text-sm text-gray-600">
-              Criar e publicar artigos no blog
-            </p>
+            <p className="text-sm text-gray-600">Criar e publicar artigos no blog</p>
           </a>
           <a
             href={`/${locale}/admin/team`}
             className="p-4 border border-gray-200 rounded-lg hover:border-black transition-colors"
           >
             <h3 className="font-semibold mb-1">Gerir Equipa</h3>
-            <p className="text-sm text-gray-600">
-              Adicionar e editar membros da equipa
-            </p>
+            <p className="text-sm text-gray-600">Adicionar e editar membros da equipa</p>
           </a>
           <a
             href={`/${locale}/admin/media`}
             className="p-4 border border-gray-200 rounded-lg hover:border-black transition-colors"
           >
             <h3 className="font-semibold mb-1">Biblioteca de Média</h3>
-            <p className="text-sm text-gray-600">
-              Fazer upload e gerir imagens
-            </p>
+            <p className="text-sm text-gray-600">Fazer upload e gerir imagens</p>
           </a>
         </div>
       </div>
