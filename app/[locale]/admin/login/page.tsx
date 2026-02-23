@@ -1,16 +1,20 @@
 'use client';
 
 import { useState } from 'react';
-import { useRouter } from 'next/navigation';
+import { useRouter, usePathname } from 'next/navigation';
 import Input from '@/components/ui/Input';
 import Button from '@/components/ui/Button';
 
 export default function LoginPage() {
   const router = useRouter();
+  const pathname = usePathname();
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
   const [error, setError] = useState('');
   const [loading, setLoading] = useState(false);
+
+  // Extract locale from current path e.g. /pt/admin/login → pt
+  const locale = pathname.split('/')[1] || 'pt';
 
   const handleLogin = async (e: React.FormEvent) => {
     e.preventDefault();
@@ -25,13 +29,14 @@ export default function LoginPage() {
       });
 
       if (response.ok) {
-        router.push('/admin');
+        router.push(`/${locale}/admin`);
         router.refresh();
       } else {
-        setError('Invalid credentials');
+        const data = await response.json();
+        setError(data.error || 'Credenciais inválidas');
       }
     } catch (err) {
-      setError('An error occurred');
+      setError('Ocorreu um erro. Tente novamente.');
     } finally {
       setLoading(false);
     }
